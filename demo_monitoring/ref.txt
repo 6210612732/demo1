@@ -1,0 +1,11 @@
+react chart
+- https://react-chartjs-2.js.org/examples/doughnut-chart/
+login form
+ - https://codepen.io/Mr_Dzi/pen/WpeYNQ?editors=0110
+mqtt buffer error fix
+- https://viglucci.io/articles/how-to-polyfill-buffer-with-webpack-5
+- https://iot4beginners.com/getting-started-with-reactjs-and-mqtt-iot-dashboard/
+line webhook
+- https://medium.com/linedevth/line-bot-101-447e427d62c7
+arduino storage space
+- https://randomnerdtutorials.com/esp32-save-data-permanently-preferences/

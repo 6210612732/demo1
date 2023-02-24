@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.css';
 import { BrowserRouter as Router,Routes, Route, Link } from 'react-router-dom';
 
 import Cards from './components/Card.component';
+import Abc from './Abc';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
                 <Routes>
                   <Route exact path="/" element={<Cards/>} />
                   <Route path="/demo" element={<Cards/>} />
+                  <Route path="/abc" element={<Abc/>} />
                 </Routes>
               </div>
             </Col>
